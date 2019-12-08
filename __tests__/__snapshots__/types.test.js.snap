@@ -3,3 +3,15 @@
 exports[`validator module casters throws if value is not castable to number 1`] = `"Cannot cast >>hi<< to Number"`;
 
 exports[`validator module casters throws if value is not castable to number 2`] = `"Cannot cast >>[object Object]<< to Number"`;
+
+exports[`validator module casters throws if value is not castable to boolean 1`] = `"Cannot cast >>[object Object]<< to Boolean"`;
+
+exports[`validator module casters throws if value is not castable to boolean 2`] = `"Cannot cast >>() => {}<< to Boolean"`;
+
+exports[`validator module casters throws if value is not castable to number 1`] = `"Cannot cast >>hi<< to Number"`;
+
+exports[`validator module casters throws if value is not castable to number 2`] = `"Cannot cast >>[object Object]<< to Number"`;
+
+exports[`validator module casters throws if value is not castable to string 1`] = `"Cannot cast >>[object Object]<< to String"`;
+
+exports[`validator module casters throws if value is not castable to string 2`] = `"Cannot cast >>() => {}<< to String"`;
